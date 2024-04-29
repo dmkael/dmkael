@@ -7,7 +7,7 @@ Python Developer
 I've been learning to code on Python for 1 year and going to switch my career. I'm very interested in backend development and want to become good enough to be able to work in development.
 
 * 🌍  I'm based in Asunción
-* ✉️  You can contact me at [tanmaar@gmail.com](mailto:tanmaar@gmail.com)
+* ✉️  You can contact me at [tanmaar@gmail.com](mailto:tanmaar@gmail.com) and via [telegram](https://t.me/Dmitry_Kael)
 * 🧠  I'm learning Django Framework now
 * 🤝  I'm open to collaborating on interesting projects to improve my skills and to be valuable
 
