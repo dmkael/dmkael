@@ -1,4 +1,4 @@
-Hi 👋 My name is Dmitrii Antonov
+Hi 👋 My name is Dmitrii
 ================================
 
 Python Developer
