@@ -9,7 +9,7 @@ I've been learning to code on Python for 1 year and going to switch my career. I
 * 🌍  I'm based in Asunción
 * ✉️  You can contact me at [tanmaar@gmail.com](mailto:tanmaar@gmail.com)
 * 🧠  I'm learning Django Framework now
-* 🤝  I'm open to collaborating on on interesting projects to improve my skills and to be valuable
+* 🤝  I'm open to collaborating on interesting projects to improve my skills and to be valuable
 
 ### Skills
 
