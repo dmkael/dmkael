@@ -10,7 +10,7 @@ I've been learning to code on Python for 1 year and going to switch my career. I
 * ✉️  You can contact me at [tanmaar@gmail.com](mailto:tanmaar@gmail.com) and via [telegram](https://t.me/Dmitry_Kael)
 * 🧠  I'm learning Django Framework now
 * 🤝  I'm open to collaborating on interesting projects to improve my skills and to be valuable
-* 💼  Here is my CV in [WEB-version](https://cv.hexlet.io/resumes/3892) and in [PDF-file](https://cv.hexlet.io/resumes/3892/pdfs/base.pdf)
+* 💼   Here is my CV in [WEB-version](https://cv.hexlet.io/resumes/3892) and in [PDF-file](https://cv.hexlet.io/resumes/3892/pdfs/base.pdf)
 
 ### Skills
 
